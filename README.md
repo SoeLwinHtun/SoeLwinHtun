@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoeLwinHtun. I have a Bachelor Degree in computer science.
+- 👋 Hi, I’m @SoeLwinHtun.
 - 👀 I’m interested in cyber security, programming and problem solving in general.
 - 🌱 I’m currently learning machine learning and deep learning.
 
